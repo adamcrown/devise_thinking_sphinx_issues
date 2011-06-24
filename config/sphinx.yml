@@ -1,0 +1,11 @@
+development:
+  indexed_models:
+    - Test
+
+test:
+  indexed_models:
+    - Test
+
+production:
+  indexed_models:
+    - Test
