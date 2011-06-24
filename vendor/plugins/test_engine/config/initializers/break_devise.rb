@@ -1,1 +1,1 @@
-require 'thing' # This is what breaks devise authentication
+#require 'thing' # This is what breaks devise authentication
